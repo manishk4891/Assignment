@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\inetpub\wwwroot\Assignment\Website</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="App_Config/Include/Feature/Feature.News.config">
+      <publishTime>05/14/2018 14:39:09</publishTime>
+    </File>
+    <File Include="App_Config/Include/Feature/Feature.News.Serialization.config">
+      <publishTime>06/15/2018 11:52:09</publishTime>
+    </File>
+    <File Include="bin/DynamicPlaceholders.dll">
+      <publishTime>11/26/2015 10:04:52</publishTime>
+    </File>
+    <File Include="bin/DynamicPlaceholders.Mvc.dll">
+      <publishTime>11/26/2015 10:15:18</publishTime>
+    </File>
+    <File Include="bin/HtmlAgilityPack.dll">
+      <publishTime>06/08/2012 21:31:50</publishTime>
+    </File>
+    <File Include="bin/HtmlAgilityPack.pdb">
+      <publishTime>06/08/2012 21:31:50</publishTime>
+    </File>
+    <File Include="bin/ImageProcessor.dll">
+      <publishTime>01/30/2018 23:16:44</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>12/13/2016 03:10:32</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Extensions.DependencyInjection.Abstractions.dll">
+      <publishTime>06/22/2016 09:14:56</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Extensions.DependencyInjection.dll">
+      <publishTime>06/22/2016 09:14:56</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>07/25/2012 11:48:56</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>01/28/2016 14:22:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>06/18/2015 20:19:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/SaudiAramco.Feature.News.dll">
+      <publishTime>03/13/2019 19:00:55</publishTime>
+    </File>
+    <File Include="bin/SaudiAramco.Feature.News.pdb">
+      <publishTime>03/13/2019 19:00:55</publishTime>
+    </File>
+    <File Include="bin/SaudiAramco.Feature.Search.dll">
+      <publishTime>03/13/2019 18:36:00</publishTime>
+    </File>
+    <File Include="bin/SaudiAramco.Feature.Search.dll.config">
+      <publishTime>04/30/2018 12:08:13</publishTime>
+    </File>
+    <File Include="bin/SaudiAramco.Feature.Search.pdb">
+      <publishTime>03/13/2019 18:36:00</publishTime>
+    </File>
+    <File Include="bin/SaudiAramco.Foundation.Alerts.dll">
+      <publishTime>03/13/2019 19:00:50</publishTime>
+    </File>
+    <File Include="bin/SaudiAramco.Foundation.Alerts.dll.config">
+      <publishTime>09/26/2017 18:57:44</publishTime>
+    </File>
+    <File Include="bin/SaudiAramco.Foundation.Alerts.pdb">
+      <publishTime>03/13/2019 19:00:50</publishTime>
+    </File>
+    <File Include="bin/SaudiAramco.Foundation.DependencyInjection.dll">
+      <publishTime>03/13/2019 19:00:26</publishTime>
+    </File>
+    <File Include="bin/SaudiAramco.Foundation.DependencyInjection.dll.config">
+      <publishTime>09/26/2017 18:57:44</publishTime>
+    </File>
+    <File Include="bin/SaudiAramco.Foundation.DependencyInjection.pdb">
+      <publishTime>03/13/2019 19:00:26</publishTime>
+    </File>
+    <File Include="bin/SaudiAramco.Foundation.Dictionary.dll">
+      <publishTime>03/13/2019 19:00:44</publishTime>
+    </File>
+    <File Include="bin/SaudiAramco.Foundation.Dictionary.dll.config">
+      <publishTime>09/26/2017 18:57:44</publishTime>
+    </File>
+    <File Include="bin/SaudiAramco.Foundation.Dictionary.pdb">
+      <publishTime>03/13/2019 19:00:44</publishTime>
+    </File>
+    <File Include="bin/SaudiAramco.Foundation.ImageCropper.dll">
+      <publishTime>03/13/2019 19:00:26</publishTime>
+    </File>
+    <File Include="bin/SaudiAramco.Foundation.ImageCropper.pdb">
+      <publishTime>03/13/2019 19:00:26</publishTime>
+    </File>
+    <File Include="bin/SaudiAramco.Foundation.Indexing.dll">
+      <publishTime>03/13/2019 19:00:51</publishTime>
+    </File>
+    <File Include="bin/SaudiAramco.Foundation.Indexing.dll.config">
+      <publishTime>09/26/2017 18:57:45</publishTime>
+    </File>
+    <File Include="bin/SaudiAramco.Foundation.Indexing.pdb">
+      <publishTime>03/13/2019 19:00:51</publishTime>
+    </File>
+    <File Include="bin/SaudiAramco.Foundation.Multisite.dll">
+      <publishTime>03/13/2019 19:00:39</publishTime>
+    </File>
+    <File Include="bin/SaudiAramco.Foundation.Multisite.dll.config">
+      <publishTime>09/26/2017 18:57:45</publishTime>
+    </File>
+    <File Include="bin/SaudiAramco.Foundation.Multisite.pdb">
+      <publishTime>03/13/2019 19:00:39</publishTime>
+    </File>
+    <File Include="bin/SaudiAramco.Foundation.SitecoreExtensions.dll">
+      <publishTime>03/13/2019 19:00:32</publishTime>
+    </File>
+    <File Include="bin/SaudiAramco.Foundation.SitecoreExtensions.dll.config">
+      <publishTime>09/26/2017 18:57:46</publishTime>
+    </File>
+    <File Include="bin/SaudiAramco.Foundation.SitecoreExtensions.pdb">
+      <publishTime>03/13/2019 19:00:32</publishTime>
+    </File>
+    <File Include="bin/Sitecore.Analytics.dll">
+      <publishTime>08/14/2017 14:42:14</publishTime>
+    </File>
+    <File Include="bin/Sitecore.Analytics.Model.dll">
+      <publishTime>08/14/2017 14:42:22</publishTime>
+    </File>
+    <File Include="bin/Sitecore.Analytics.Outcome.dll">
+      <publishTime>08/14/2017 14:42:36</publishTime>
+    </File>
+    <File Include="bin/Sitecore.Buckets.dll">
+      <publishTime>08/14/2017 19:13:06</publishTime>
+    </File>
+    <File Include="bin/Sitecore.Client.dll">
+      <publishTime>08/14/2017 19:13:54</publishTime>
+    </File>
+    <File Include="bin/Sitecore.ContentSearch.dll">
+      <publishTime>08/14/2017 14:44:56</publishTime>
+    </File>
+    <File Include="bin/Sitecore.ContentSearch.Linq.dll">
+      <publishTime>08/14/2017 14:45:02</publishTime>
+    </File>
+    <File Include="bin/Sitecore.ExperienceEditor.dll">
+      <publishTime>08/14/2017 14:46:40</publishTime>
+    </File>
+    <File Include="bin/Sitecore.Kernel.dll">
+      <publishTime>08/14/2017 14:47:46</publishTime>
+    </File>
+    <File Include="bin/Sitecore.Logging.dll">
+      <publishTime>08/14/2017 19:18:30</publishTime>
+    </File>
+    <File Include="bin/Sitecore.Mvc.dll">
+      <publishTime>08/14/2017 14:49:24</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>01/28/2015 04:04:30</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>01/28/2015 04:02:18</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>01/28/2015 04:02:32</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Deployment.dll">
+      <publishTime>01/28/2015 04:04:30</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.dll">
+      <publishTime>01/28/2015 04:04:30</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Razor.dll">
+      <publishTime>01/28/2015 04:04:30</publishTime>
+    </File>
+    <File Include="Views/News/c19A_NewsListing.cshtml">
+      <publishTime>06/22/2018 17:40:28</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

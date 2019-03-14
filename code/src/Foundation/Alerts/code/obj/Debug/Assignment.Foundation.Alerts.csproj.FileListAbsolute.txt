@@ -1,0 +1,234 @@
+D:\Manish\Assignment\develop\src\Foundation\Alerts\code\bin\roslyn\csc.exe
+D:\Manish\Assignment\develop\src\Foundation\Alerts\code\bin\roslyn\csc.exe.config
+D:\Manish\Assignment\develop\src\Foundation\Alerts\code\bin\roslyn\csc.rsp
+D:\Manish\Assignment\develop\src\Foundation\Alerts\code\bin\roslyn\csi.exe
+D:\Manish\Assignment\develop\src\Foundation\Alerts\code\bin\roslyn\csi.rsp
+D:\Manish\Assignment\develop\src\Foundation\Alerts\code\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Manish\Assignment\develop\src\Foundation\Alerts\code\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Manish\Assignment\develop\src\Foundation\Alerts\code\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Manish\Assignment\develop\src\Foundation\Alerts\code\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Manish\Assignment\develop\src\Foundation\Alerts\code\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Manish\Assignment\develop\src\Foundation\Alerts\code\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Manish\Assignment\develop\src\Foundation\Alerts\code\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Manish\Assignment\develop\src\Foundation\Alerts\code\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Manish\Assignment\develop\src\Foundation\Alerts\code\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Manish\Assignment\develop\src\Foundation\Alerts\code\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Manish\Assignment\develop\src\Foundation\Alerts\code\bin\roslyn\System.AppContext.dll
+D:\Manish\Assignment\develop\src\Foundation\Alerts\code\bin\roslyn\System.Collections.Immutable.dll
+D:\Manish\Assignment\develop\src\Foundation\Alerts\code\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Manish\Assignment\develop\src\Foundation\Alerts\code\bin\roslyn\System.IO.FileSystem.dll
+D:\Manish\Assignment\develop\src\Foundation\Alerts\code\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Manish\Assignment\develop\src\Foundation\Alerts\code\bin\roslyn\System.Reflection.Metadata.dll
+D:\Manish\Assignment\develop\src\Foundation\Alerts\code\bin\roslyn\vbc.exe
+D:\Manish\Assignment\develop\src\Foundation\Alerts\code\bin\roslyn\vbc.exe.config
+D:\Manish\Assignment\develop\src\Foundation\Alerts\code\bin\roslyn\vbc.rsp
+D:\Manish\Assignment\develop\src\Foundation\Alerts\code\bin\roslyn\VBCSCompiler.exe
+D:\Manish\Assignment\develop\src\Foundation\Alerts\code\bin\roslyn\VBCSCompiler.exe.config
+D:\Manish\Assignment\develop\src\Foundation\Alerts\code\bin\Assignment.Foundation.Alerts.dll.config
+D:\Manish\Assignment\develop\src\Foundation\Alerts\code\bin\Assignment.Foundation.Alerts.dll
+D:\Manish\Assignment\develop\src\Foundation\Alerts\code\bin\Assignment.Foundation.Alerts.pdb
+D:\Manish\Assignment\develop\src\Foundation\Alerts\code\bin\Assignment.Foundation.Alerts.dll.CodeAnalysisLog.xml
+D:\Manish\Assignment\develop\src\Foundation\Alerts\code\bin\Assignment.Foundation.Alerts.dll.lastcodeanalysissucceeded
+D:\Manish\Assignment\develop\src\Foundation\Alerts\code\bin\Assignment.Foundation.Dictionary.dll
+D:\Manish\Assignment\develop\src\Foundation\Alerts\code\bin\Assignment.Foundation.SitecoreExtensions.dll
+D:\Manish\Assignment\develop\src\Foundation\Alerts\code\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Manish\Assignment\develop\src\Foundation\Alerts\code\bin\Microsoft.Web.Infrastructure.dll
+D:\Manish\Assignment\develop\src\Foundation\Alerts\code\bin\Sitecore.Kernel.dll
+D:\Manish\Assignment\develop\src\Foundation\Alerts\code\bin\Sitecore.Mvc.dll
+D:\Manish\Assignment\develop\src\Foundation\Alerts\code\bin\System.Web.Helpers.dll
+D:\Manish\Assignment\develop\src\Foundation\Alerts\code\bin\System.Web.Mvc.dll
+D:\Manish\Assignment\develop\src\Foundation\Alerts\code\bin\System.Web.Razor.dll
+D:\Manish\Assignment\develop\src\Foundation\Alerts\code\bin\System.Web.WebPages.Deployment.dll
+D:\Manish\Assignment\develop\src\Foundation\Alerts\code\bin\System.Web.WebPages.dll
+D:\Manish\Assignment\develop\src\Foundation\Alerts\code\bin\System.Web.WebPages.Razor.dll
+D:\Manish\Assignment\develop\src\Foundation\Alerts\code\bin\Assignment.Foundation.DependencyInjection.dll
+D:\Manish\Assignment\develop\src\Foundation\Alerts\code\bin\Sitecore.Analytics.dll
+D:\Manish\Assignment\develop\src\Foundation\Alerts\code\bin\Sitecore.Analytics.Model.dll
+D:\Manish\Assignment\develop\src\Foundation\Alerts\code\bin\Sitecore.Analytics.Outcome.dll
+D:\Manish\Assignment\develop\src\Foundation\Alerts\code\bin\Sitecore.Client.dll
+D:\Manish\Assignment\develop\src\Foundation\Alerts\code\bin\HtmlAgilityPack.dll
+D:\Manish\Assignment\develop\src\Foundation\Alerts\code\bin\Newtonsoft.Json.dll
+D:\Manish\Assignment\develop\src\Foundation\Alerts\code\bin\DynamicPlaceholders.Mvc.dll
+D:\Manish\Assignment\develop\src\Foundation\Alerts\code\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Manish\Assignment\develop\src\Foundation\Alerts\code\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\Manish\Assignment\develop\src\Foundation\Alerts\code\bin\Sitecore.Analytics.Core.dll
+D:\Manish\Assignment\develop\src\Foundation\Alerts\code\bin\DynamicPlaceholders.dll
+D:\Manish\Assignment\develop\src\Foundation\Alerts\code\bin\Assignment.Foundation.Dictionary.pdb
+D:\Manish\Assignment\develop\src\Foundation\Alerts\code\bin\Assignment.Foundation.Dictionary.dll.config
+D:\Manish\Assignment\develop\src\Foundation\Alerts\code\bin\Assignment.Foundation.SitecoreExtensions.pdb
+D:\Manish\Assignment\develop\src\Foundation\Alerts\code\bin\Assignment.Foundation.SitecoreExtensions.dll.config
+D:\Manish\Assignment\develop\src\Foundation\Alerts\code\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Manish\Assignment\develop\src\Foundation\Alerts\code\bin\System.Web.Helpers.xml
+D:\Manish\Assignment\develop\src\Foundation\Alerts\code\bin\System.Web.Mvc.xml
+D:\Manish\Assignment\develop\src\Foundation\Alerts\code\bin\System.Web.Razor.xml
+D:\Manish\Assignment\develop\src\Foundation\Alerts\code\bin\System.Web.WebPages.xml
+D:\Manish\Assignment\develop\src\Foundation\Alerts\code\bin\System.Web.WebPages.Deployment.xml
+D:\Manish\Assignment\develop\src\Foundation\Alerts\code\bin\System.Web.WebPages.Razor.xml
+D:\Manish\Assignment\develop\src\Foundation\Alerts\code\bin\Assignment.Foundation.DependencyInjection.pdb
+D:\Manish\Assignment\develop\src\Foundation\Alerts\code\bin\Assignment.Foundation.DependencyInjection.dll.config
+D:\Manish\Assignment\develop\src\Foundation\Alerts\code\bin\HtmlAgilityPack.pdb
+D:\Manish\Assignment\develop\src\Foundation\Alerts\code\bin\HtmlAgilityPack.xml
+D:\Manish\Assignment\develop\src\Foundation\Alerts\code\bin\Newtonsoft.Json.xml
+D:\Manish\Assignment\develop\src\Foundation\Alerts\code\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Manish\Assignment\develop\src\Foundation\Alerts\code\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\Manish\Assignment\develop\src\Foundation\Alerts\code\obj\Debug\Assignment.Foundation.Alerts.csprojAssemblyReference.cache
+D:\Manish\Assignment\develop\src\Foundation\Alerts\code\obj\Debug\Assignment.Foundation.Alerts.csproj.CoreCompileInputs.cache
+D:\Manish\Assignment\develop\src\Foundation\Alerts\code\obj\Debug\Assignment.Foundation.Alerts.csproj.CopyComplete
+D:\Manish\Assignment\develop\src\Foundation\Alerts\code\obj\Debug\Assignment.Foundation.Alerts.dll
+D:\Manish\Assignment\develop\src\Foundation\Alerts\code\obj\Debug\Assignment.Foundation.Alerts.pdb
+D:\Manish\Assignment\develop - Copy\src\Foundation\Alerts\code\bin\roslyn\csc.exe
+D:\Manish\Assignment\develop - Copy\src\Foundation\Alerts\code\bin\roslyn\csc.exe.config
+D:\Manish\Assignment\develop - Copy\src\Foundation\Alerts\code\bin\roslyn\csc.rsp
+D:\Manish\Assignment\develop - Copy\src\Foundation\Alerts\code\bin\roslyn\csi.exe
+D:\Manish\Assignment\develop - Copy\src\Foundation\Alerts\code\bin\roslyn\csi.rsp
+D:\Manish\Assignment\develop - Copy\src\Foundation\Alerts\code\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Manish\Assignment\develop - Copy\src\Foundation\Alerts\code\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Manish\Assignment\develop - Copy\src\Foundation\Alerts\code\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Manish\Assignment\develop - Copy\src\Foundation\Alerts\code\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Manish\Assignment\develop - Copy\src\Foundation\Alerts\code\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Manish\Assignment\develop - Copy\src\Foundation\Alerts\code\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Manish\Assignment\develop - Copy\src\Foundation\Alerts\code\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Manish\Assignment\develop - Copy\src\Foundation\Alerts\code\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Manish\Assignment\develop - Copy\src\Foundation\Alerts\code\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Manish\Assignment\develop - Copy\src\Foundation\Alerts\code\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Manish\Assignment\develop - Copy\src\Foundation\Alerts\code\bin\roslyn\System.AppContext.dll
+D:\Manish\Assignment\develop - Copy\src\Foundation\Alerts\code\bin\roslyn\System.Collections.Immutable.dll
+D:\Manish\Assignment\develop - Copy\src\Foundation\Alerts\code\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Manish\Assignment\develop - Copy\src\Foundation\Alerts\code\bin\roslyn\System.IO.FileSystem.dll
+D:\Manish\Assignment\develop - Copy\src\Foundation\Alerts\code\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Manish\Assignment\develop - Copy\src\Foundation\Alerts\code\bin\roslyn\System.Reflection.Metadata.dll
+D:\Manish\Assignment\develop - Copy\src\Foundation\Alerts\code\bin\roslyn\vbc.exe
+D:\Manish\Assignment\develop - Copy\src\Foundation\Alerts\code\bin\roslyn\vbc.exe.config
+D:\Manish\Assignment\develop - Copy\src\Foundation\Alerts\code\bin\roslyn\vbc.rsp
+D:\Manish\Assignment\develop - Copy\src\Foundation\Alerts\code\bin\roslyn\VBCSCompiler.exe
+D:\Manish\Assignment\develop - Copy\src\Foundation\Alerts\code\bin\roslyn\VBCSCompiler.exe.config
+D:\Manish\Assignment\develop - Copy\src\Foundation\Alerts\code\bin\Assignment.Foundation.Alerts.dll.config
+D:\Manish\Assignment\develop - Copy\src\Foundation\Alerts\code\bin\Assignment.Foundation.Alerts.dll
+D:\Manish\Assignment\develop - Copy\src\Foundation\Alerts\code\bin\Assignment.Foundation.Alerts.pdb
+D:\Manish\Assignment\develop - Copy\src\Foundation\Alerts\code\bin\Assignment.Foundation.Alerts.dll.CodeAnalysisLog.xml
+D:\Manish\Assignment\develop - Copy\src\Foundation\Alerts\code\bin\Assignment.Foundation.Alerts.dll.lastcodeanalysissucceeded
+D:\Manish\Assignment\develop - Copy\src\Foundation\Alerts\code\bin\Assignment.Foundation.Dictionary.dll
+D:\Manish\Assignment\develop - Copy\src\Foundation\Alerts\code\bin\Assignment.Foundation.SitecoreExtensions.dll
+D:\Manish\Assignment\develop - Copy\src\Foundation\Alerts\code\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Manish\Assignment\develop - Copy\src\Foundation\Alerts\code\bin\Microsoft.Web.Infrastructure.dll
+D:\Manish\Assignment\develop - Copy\src\Foundation\Alerts\code\bin\Sitecore.Kernel.dll
+D:\Manish\Assignment\develop - Copy\src\Foundation\Alerts\code\bin\Sitecore.Mvc.dll
+D:\Manish\Assignment\develop - Copy\src\Foundation\Alerts\code\bin\System.Web.Helpers.dll
+D:\Manish\Assignment\develop - Copy\src\Foundation\Alerts\code\bin\System.Web.Mvc.dll
+D:\Manish\Assignment\develop - Copy\src\Foundation\Alerts\code\bin\System.Web.Razor.dll
+D:\Manish\Assignment\develop - Copy\src\Foundation\Alerts\code\bin\System.Web.WebPages.Deployment.dll
+D:\Manish\Assignment\develop - Copy\src\Foundation\Alerts\code\bin\System.Web.WebPages.dll
+D:\Manish\Assignment\develop - Copy\src\Foundation\Alerts\code\bin\System.Web.WebPages.Razor.dll
+D:\Manish\Assignment\develop - Copy\src\Foundation\Alerts\code\bin\Assignment.Foundation.DependencyInjection.dll
+D:\Manish\Assignment\develop - Copy\src\Foundation\Alerts\code\bin\Sitecore.Analytics.dll
+D:\Manish\Assignment\develop - Copy\src\Foundation\Alerts\code\bin\Sitecore.Analytics.Model.dll
+D:\Manish\Assignment\develop - Copy\src\Foundation\Alerts\code\bin\Sitecore.Analytics.Outcome.dll
+D:\Manish\Assignment\develop - Copy\src\Foundation\Alerts\code\bin\Sitecore.Client.dll
+D:\Manish\Assignment\develop - Copy\src\Foundation\Alerts\code\bin\HtmlAgilityPack.dll
+D:\Manish\Assignment\develop - Copy\src\Foundation\Alerts\code\bin\Newtonsoft.Json.dll
+D:\Manish\Assignment\develop - Copy\src\Foundation\Alerts\code\bin\DynamicPlaceholders.Mvc.dll
+D:\Manish\Assignment\develop - Copy\src\Foundation\Alerts\code\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Manish\Assignment\develop - Copy\src\Foundation\Alerts\code\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\Manish\Assignment\develop - Copy\src\Foundation\Alerts\code\bin\Sitecore.Analytics.Core.dll
+D:\Manish\Assignment\develop - Copy\src\Foundation\Alerts\code\bin\DynamicPlaceholders.dll
+D:\Manish\Assignment\develop - Copy\src\Foundation\Alerts\code\bin\Assignment.Foundation.Dictionary.pdb
+D:\Manish\Assignment\develop - Copy\src\Foundation\Alerts\code\bin\Assignment.Foundation.Dictionary.dll.config
+D:\Manish\Assignment\develop - Copy\src\Foundation\Alerts\code\bin\Assignment.Foundation.SitecoreExtensions.pdb
+D:\Manish\Assignment\develop - Copy\src\Foundation\Alerts\code\bin\Assignment.Foundation.SitecoreExtensions.dll.config
+D:\Manish\Assignment\develop - Copy\src\Foundation\Alerts\code\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Manish\Assignment\develop - Copy\src\Foundation\Alerts\code\bin\System.Web.Helpers.xml
+D:\Manish\Assignment\develop - Copy\src\Foundation\Alerts\code\bin\System.Web.Mvc.xml
+D:\Manish\Assignment\develop - Copy\src\Foundation\Alerts\code\bin\System.Web.Razor.xml
+D:\Manish\Assignment\develop - Copy\src\Foundation\Alerts\code\bin\System.Web.WebPages.xml
+D:\Manish\Assignment\develop - Copy\src\Foundation\Alerts\code\bin\System.Web.WebPages.Deployment.xml
+D:\Manish\Assignment\develop - Copy\src\Foundation\Alerts\code\bin\System.Web.WebPages.Razor.xml
+D:\Manish\Assignment\develop - Copy\src\Foundation\Alerts\code\bin\Assignment.Foundation.DependencyInjection.pdb
+D:\Manish\Assignment\develop - Copy\src\Foundation\Alerts\code\bin\Assignment.Foundation.DependencyInjection.dll.config
+D:\Manish\Assignment\develop - Copy\src\Foundation\Alerts\code\bin\HtmlAgilityPack.pdb
+D:\Manish\Assignment\develop - Copy\src\Foundation\Alerts\code\bin\HtmlAgilityPack.xml
+D:\Manish\Assignment\develop - Copy\src\Foundation\Alerts\code\bin\Newtonsoft.Json.xml
+D:\Manish\Assignment\develop - Copy\src\Foundation\Alerts\code\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Manish\Assignment\develop - Copy\src\Foundation\Alerts\code\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\Manish\Assignment\develop - Copy\src\Foundation\Alerts\code\obj\Debug\Assignment.Foundation.Alerts.csprojAssemblyReference.cache
+D:\Manish\Assignment\develop - Copy\src\Foundation\Alerts\code\obj\Debug\Assignment.Foundation.Alerts.csproj.CoreCompileInputs.cache
+D:\Manish\Assignment\develop - Copy\src\Foundation\Alerts\code\obj\Debug\Assignment.Foundation.Alerts.csproj.CopyComplete
+D:\Manish\Assignment\develop - Copy\src\Foundation\Alerts\code\obj\Debug\Assignment.Foundation.Alerts.dll
+D:\Manish\Assignment\develop - Copy\src\Foundation\Alerts\code\obj\Debug\Assignment.Foundation.Alerts.pdb
+D:\Manish\Assignment\AssignmentCode\src\Foundation\Alerts\code\bin\roslyn\csc.exe
+D:\Manish\Assignment\AssignmentCode\src\Foundation\Alerts\code\bin\roslyn\csc.exe.config
+D:\Manish\Assignment\AssignmentCode\src\Foundation\Alerts\code\bin\roslyn\csc.rsp
+D:\Manish\Assignment\AssignmentCode\src\Foundation\Alerts\code\bin\roslyn\csi.exe
+D:\Manish\Assignment\AssignmentCode\src\Foundation\Alerts\code\bin\roslyn\csi.rsp
+D:\Manish\Assignment\AssignmentCode\src\Foundation\Alerts\code\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Manish\Assignment\AssignmentCode\src\Foundation\Alerts\code\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Manish\Assignment\AssignmentCode\src\Foundation\Alerts\code\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Manish\Assignment\AssignmentCode\src\Foundation\Alerts\code\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Manish\Assignment\AssignmentCode\src\Foundation\Alerts\code\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Manish\Assignment\AssignmentCode\src\Foundation\Alerts\code\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Manish\Assignment\AssignmentCode\src\Foundation\Alerts\code\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Manish\Assignment\AssignmentCode\src\Foundation\Alerts\code\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Manish\Assignment\AssignmentCode\src\Foundation\Alerts\code\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Manish\Assignment\AssignmentCode\src\Foundation\Alerts\code\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Manish\Assignment\AssignmentCode\src\Foundation\Alerts\code\bin\roslyn\System.AppContext.dll
+D:\Manish\Assignment\AssignmentCode\src\Foundation\Alerts\code\bin\roslyn\System.Collections.Immutable.dll
+D:\Manish\Assignment\AssignmentCode\src\Foundation\Alerts\code\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Manish\Assignment\AssignmentCode\src\Foundation\Alerts\code\bin\roslyn\System.IO.FileSystem.dll
+D:\Manish\Assignment\AssignmentCode\src\Foundation\Alerts\code\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Manish\Assignment\AssignmentCode\src\Foundation\Alerts\code\bin\roslyn\System.Reflection.Metadata.dll
+D:\Manish\Assignment\AssignmentCode\src\Foundation\Alerts\code\bin\roslyn\vbc.exe
+D:\Manish\Assignment\AssignmentCode\src\Foundation\Alerts\code\bin\roslyn\vbc.exe.config
+D:\Manish\Assignment\AssignmentCode\src\Foundation\Alerts\code\bin\roslyn\vbc.rsp
+D:\Manish\Assignment\AssignmentCode\src\Foundation\Alerts\code\bin\roslyn\VBCSCompiler.exe
+D:\Manish\Assignment\AssignmentCode\src\Foundation\Alerts\code\bin\roslyn\VBCSCompiler.exe.config
+D:\Manish\Assignment\AssignmentCode\src\Foundation\Alerts\code\bin\Assignment.Foundation.Alerts.dll.config
+D:\Manish\Assignment\AssignmentCode\src\Foundation\Alerts\code\bin\Assignment.Foundation.Alerts.dll
+D:\Manish\Assignment\AssignmentCode\src\Foundation\Alerts\code\bin\Assignment.Foundation.Alerts.pdb
+D:\Manish\Assignment\AssignmentCode\src\Foundation\Alerts\code\bin\Assignment.Foundation.Alerts.dll.CodeAnalysisLog.xml
+D:\Manish\Assignment\AssignmentCode\src\Foundation\Alerts\code\bin\Assignment.Foundation.Alerts.dll.lastcodeanalysissucceeded
+D:\Manish\Assignment\AssignmentCode\src\Foundation\Alerts\code\bin\Assignment.Foundation.Dictionary.dll
+D:\Manish\Assignment\AssignmentCode\src\Foundation\Alerts\code\bin\Assignment.Foundation.SitecoreExtensions.dll
+D:\Manish\Assignment\AssignmentCode\src\Foundation\Alerts\code\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Manish\Assignment\AssignmentCode\src\Foundation\Alerts\code\bin\Microsoft.Web.Infrastructure.dll
+D:\Manish\Assignment\AssignmentCode\src\Foundation\Alerts\code\bin\Sitecore.Kernel.dll
+D:\Manish\Assignment\AssignmentCode\src\Foundation\Alerts\code\bin\Sitecore.Mvc.dll
+D:\Manish\Assignment\AssignmentCode\src\Foundation\Alerts\code\bin\System.Web.Helpers.dll
+D:\Manish\Assignment\AssignmentCode\src\Foundation\Alerts\code\bin\System.Web.Mvc.dll
+D:\Manish\Assignment\AssignmentCode\src\Foundation\Alerts\code\bin\System.Web.Razor.dll
+D:\Manish\Assignment\AssignmentCode\src\Foundation\Alerts\code\bin\System.Web.WebPages.Deployment.dll
+D:\Manish\Assignment\AssignmentCode\src\Foundation\Alerts\code\bin\System.Web.WebPages.dll
+D:\Manish\Assignment\AssignmentCode\src\Foundation\Alerts\code\bin\System.Web.WebPages.Razor.dll
+D:\Manish\Assignment\AssignmentCode\src\Foundation\Alerts\code\bin\Assignment.Foundation.DependencyInjection.dll
+D:\Manish\Assignment\AssignmentCode\src\Foundation\Alerts\code\bin\Sitecore.Analytics.dll
+D:\Manish\Assignment\AssignmentCode\src\Foundation\Alerts\code\bin\Sitecore.Analytics.Model.dll
+D:\Manish\Assignment\AssignmentCode\src\Foundation\Alerts\code\bin\Sitecore.Analytics.Outcome.dll
+D:\Manish\Assignment\AssignmentCode\src\Foundation\Alerts\code\bin\Sitecore.Client.dll
+D:\Manish\Assignment\AssignmentCode\src\Foundation\Alerts\code\bin\HtmlAgilityPack.dll
+D:\Manish\Assignment\AssignmentCode\src\Foundation\Alerts\code\bin\Newtonsoft.Json.dll
+D:\Manish\Assignment\AssignmentCode\src\Foundation\Alerts\code\bin\DynamicPlaceholders.Mvc.dll
+D:\Manish\Assignment\AssignmentCode\src\Foundation\Alerts\code\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Manish\Assignment\AssignmentCode\src\Foundation\Alerts\code\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\Manish\Assignment\AssignmentCode\src\Foundation\Alerts\code\bin\Sitecore.Analytics.Core.dll
+D:\Manish\Assignment\AssignmentCode\src\Foundation\Alerts\code\bin\DynamicPlaceholders.dll
+D:\Manish\Assignment\AssignmentCode\src\Foundation\Alerts\code\bin\Assignment.Foundation.Dictionary.pdb
+D:\Manish\Assignment\AssignmentCode\src\Foundation\Alerts\code\bin\Assignment.Foundation.Dictionary.dll.config
+D:\Manish\Assignment\AssignmentCode\src\Foundation\Alerts\code\bin\Assignment.Foundation.SitecoreExtensions.pdb
+D:\Manish\Assignment\AssignmentCode\src\Foundation\Alerts\code\bin\Assignment.Foundation.SitecoreExtensions.dll.config
+D:\Manish\Assignment\AssignmentCode\src\Foundation\Alerts\code\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Manish\Assignment\AssignmentCode\src\Foundation\Alerts\code\bin\System.Web.Helpers.xml
+D:\Manish\Assignment\AssignmentCode\src\Foundation\Alerts\code\bin\System.Web.Mvc.xml
+D:\Manish\Assignment\AssignmentCode\src\Foundation\Alerts\code\bin\System.Web.Razor.xml
+D:\Manish\Assignment\AssignmentCode\src\Foundation\Alerts\code\bin\System.Web.WebPages.xml
+D:\Manish\Assignment\AssignmentCode\src\Foundation\Alerts\code\bin\System.Web.WebPages.Deployment.xml
+D:\Manish\Assignment\AssignmentCode\src\Foundation\Alerts\code\bin\System.Web.WebPages.Razor.xml
+D:\Manish\Assignment\AssignmentCode\src\Foundation\Alerts\code\bin\Assignment.Foundation.DependencyInjection.pdb
+D:\Manish\Assignment\AssignmentCode\src\Foundation\Alerts\code\bin\Assignment.Foundation.DependencyInjection.dll.config
+D:\Manish\Assignment\AssignmentCode\src\Foundation\Alerts\code\bin\HtmlAgilityPack.pdb
+D:\Manish\Assignment\AssignmentCode\src\Foundation\Alerts\code\bin\HtmlAgilityPack.xml
+D:\Manish\Assignment\AssignmentCode\src\Foundation\Alerts\code\bin\Newtonsoft.Json.xml
+D:\Manish\Assignment\AssignmentCode\src\Foundation\Alerts\code\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Manish\Assignment\AssignmentCode\src\Foundation\Alerts\code\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\Manish\Assignment\AssignmentCode\src\Foundation\Alerts\code\obj\Debug\Assignment.Foundation.Alerts.csprojAssemblyReference.cache
+D:\Manish\Assignment\AssignmentCode\src\Foundation\Alerts\code\obj\Debug\Assignment.Foundation.Alerts.csproj.CoreCompileInputs.cache
+D:\Manish\Assignment\AssignmentCode\src\Foundation\Alerts\code\obj\Debug\Assignment.Foundation.Alerts.csproj.CopyComplete
+D:\Manish\Assignment\AssignmentCode\src\Foundation\Alerts\code\obj\Debug\Assignment.Foundation.Alerts.dll
+D:\Manish\Assignment\AssignmentCode\src\Foundation\Alerts\code\obj\Debug\Assignment.Foundation.Alerts.pdb

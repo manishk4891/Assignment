@@ -1,0 +1,236 @@
+D:\WorkingProject\SaudiAramcoBranches\develop\src\foundation\SitecoreExtensions\code\bin\roslyn\csc.exe
+D:\WorkingProject\SaudiAramcoBranches\develop\src\foundation\SitecoreExtensions\code\bin\roslyn\csc.exe.config
+D:\WorkingProject\SaudiAramcoBranches\develop\src\foundation\SitecoreExtensions\code\bin\roslyn\csc.rsp
+D:\WorkingProject\SaudiAramcoBranches\develop\src\foundation\SitecoreExtensions\code\bin\roslyn\csi.exe
+D:\WorkingProject\SaudiAramcoBranches\develop\src\foundation\SitecoreExtensions\code\bin\roslyn\csi.rsp
+D:\WorkingProject\SaudiAramcoBranches\develop\src\foundation\SitecoreExtensions\code\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\WorkingProject\SaudiAramcoBranches\develop\src\foundation\SitecoreExtensions\code\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\WorkingProject\SaudiAramcoBranches\develop\src\foundation\SitecoreExtensions\code\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\WorkingProject\SaudiAramcoBranches\develop\src\foundation\SitecoreExtensions\code\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\WorkingProject\SaudiAramcoBranches\develop\src\foundation\SitecoreExtensions\code\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\WorkingProject\SaudiAramcoBranches\develop\src\foundation\SitecoreExtensions\code\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\WorkingProject\SaudiAramcoBranches\develop\src\foundation\SitecoreExtensions\code\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\WorkingProject\SaudiAramcoBranches\develop\src\foundation\SitecoreExtensions\code\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\WorkingProject\SaudiAramcoBranches\develop\src\foundation\SitecoreExtensions\code\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\WorkingProject\SaudiAramcoBranches\develop\src\foundation\SitecoreExtensions\code\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\WorkingProject\SaudiAramcoBranches\develop\src\foundation\SitecoreExtensions\code\bin\roslyn\System.AppContext.dll
+D:\WorkingProject\SaudiAramcoBranches\develop\src\foundation\SitecoreExtensions\code\bin\roslyn\System.Collections.Immutable.dll
+D:\WorkingProject\SaudiAramcoBranches\develop\src\foundation\SitecoreExtensions\code\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\WorkingProject\SaudiAramcoBranches\develop\src\foundation\SitecoreExtensions\code\bin\roslyn\System.IO.FileSystem.dll
+D:\WorkingProject\SaudiAramcoBranches\develop\src\foundation\SitecoreExtensions\code\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\WorkingProject\SaudiAramcoBranches\develop\src\foundation\SitecoreExtensions\code\bin\roslyn\System.Reflection.Metadata.dll
+D:\WorkingProject\SaudiAramcoBranches\develop\src\foundation\SitecoreExtensions\code\bin\roslyn\vbc.exe
+D:\WorkingProject\SaudiAramcoBranches\develop\src\foundation\SitecoreExtensions\code\bin\roslyn\vbc.exe.config
+D:\WorkingProject\SaudiAramcoBranches\develop\src\foundation\SitecoreExtensions\code\bin\roslyn\vbc.rsp
+D:\WorkingProject\SaudiAramcoBranches\develop\src\foundation\SitecoreExtensions\code\bin\roslyn\VBCSCompiler.exe
+D:\WorkingProject\SaudiAramcoBranches\develop\src\foundation\SitecoreExtensions\code\bin\roslyn\VBCSCompiler.exe.config
+D:\WorkingProject\SaudiAramcoBranches\develop\src\foundation\SitecoreExtensions\code\bin\SaudiAramco.Foundation.SitecoreExtensions.dll.config
+D:\WorkingProject\SaudiAramcoBranches\develop\src\foundation\SitecoreExtensions\code\bin\SaudiAramco.Foundation.SitecoreExtensions.dll
+D:\WorkingProject\SaudiAramcoBranches\develop\src\foundation\SitecoreExtensions\code\bin\SaudiAramco.Foundation.SitecoreExtensions.pdb
+D:\WorkingProject\SaudiAramcoBranches\develop\src\foundation\SitecoreExtensions\code\bin\DynamicPlaceholders.dll
+D:\WorkingProject\SaudiAramcoBranches\develop\src\foundation\SitecoreExtensions\code\bin\DynamicPlaceholders.Mvc.dll
+D:\WorkingProject\SaudiAramcoBranches\develop\src\foundation\SitecoreExtensions\code\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\WorkingProject\SaudiAramcoBranches\develop\src\foundation\SitecoreExtensions\code\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\WorkingProject\SaudiAramcoBranches\develop\src\foundation\SitecoreExtensions\code\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\WorkingProject\SaudiAramcoBranches\develop\src\foundation\SitecoreExtensions\code\bin\Microsoft.Web.Infrastructure.dll
+D:\WorkingProject\SaudiAramcoBranches\develop\src\foundation\SitecoreExtensions\code\bin\Newtonsoft.Json.dll
+D:\WorkingProject\SaudiAramcoBranches\develop\src\foundation\SitecoreExtensions\code\bin\SaudiAramco.Foundation.DependencyInjection.dll
+D:\WorkingProject\SaudiAramcoBranches\develop\src\foundation\SitecoreExtensions\code\bin\Sitecore.Analytics.Core.dll
+D:\WorkingProject\SaudiAramcoBranches\develop\src\foundation\SitecoreExtensions\code\bin\Sitecore.Analytics.dll
+D:\WorkingProject\SaudiAramcoBranches\develop\src\foundation\SitecoreExtensions\code\bin\Sitecore.Analytics.Model.dll
+D:\WorkingProject\SaudiAramcoBranches\develop\src\foundation\SitecoreExtensions\code\bin\Sitecore.Analytics.Outcome.dll
+D:\WorkingProject\SaudiAramcoBranches\develop\src\foundation\SitecoreExtensions\code\bin\Sitecore.ContentSearch.dll
+D:\WorkingProject\SaudiAramcoBranches\develop\src\foundation\SitecoreExtensions\code\bin\Sitecore.ContentSearch.Linq.dll
+D:\WorkingProject\SaudiAramcoBranches\develop\src\foundation\SitecoreExtensions\code\bin\Sitecore.ExperienceEditor.dll
+D:\WorkingProject\SaudiAramcoBranches\develop\src\foundation\SitecoreExtensions\code\bin\Sitecore.ExperienceExplorer.Business.dll
+D:\WorkingProject\SaudiAramcoBranches\develop\src\foundation\SitecoreExtensions\code\bin\Sitecore.Kernel.dll
+D:\WorkingProject\SaudiAramcoBranches\develop\src\foundation\SitecoreExtensions\code\bin\Sitecore.Mvc.dll
+D:\WorkingProject\SaudiAramcoBranches\develop\src\foundation\SitecoreExtensions\code\bin\System.Web.Helpers.dll
+D:\WorkingProject\SaudiAramcoBranches\develop\src\foundation\SitecoreExtensions\code\bin\System.Web.Mvc.dll
+D:\WorkingProject\SaudiAramcoBranches\develop\src\foundation\SitecoreExtensions\code\bin\System.Web.Razor.dll
+D:\WorkingProject\SaudiAramcoBranches\develop\src\foundation\SitecoreExtensions\code\bin\System.Web.WebPages.Deployment.dll
+D:\WorkingProject\SaudiAramcoBranches\develop\src\foundation\SitecoreExtensions\code\bin\System.Web.WebPages.dll
+D:\WorkingProject\SaudiAramcoBranches\develop\src\foundation\SitecoreExtensions\code\bin\System.Web.WebPages.Razor.dll
+D:\WorkingProject\SaudiAramcoBranches\develop\src\foundation\SitecoreExtensions\code\bin\SaudiAramco.Foundation.DependencyInjection.pdb
+D:\WorkingProject\SaudiAramcoBranches\develop\src\foundation\SitecoreExtensions\code\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\WorkingProject\SaudiAramcoBranches\develop\src\foundation\SitecoreExtensions\code\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\WorkingProject\SaudiAramcoBranches\develop\src\foundation\SitecoreExtensions\code\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\WorkingProject\SaudiAramcoBranches\develop\src\foundation\SitecoreExtensions\code\bin\Newtonsoft.Json.xml
+D:\WorkingProject\SaudiAramcoBranches\develop\src\foundation\SitecoreExtensions\code\bin\System.Web.Helpers.xml
+D:\WorkingProject\SaudiAramcoBranches\develop\src\foundation\SitecoreExtensions\code\bin\System.Web.Mvc.xml
+D:\WorkingProject\SaudiAramcoBranches\develop\src\foundation\SitecoreExtensions\code\bin\System.Web.Razor.xml
+D:\WorkingProject\SaudiAramcoBranches\develop\src\foundation\SitecoreExtensions\code\bin\System.Web.WebPages.xml
+D:\WorkingProject\SaudiAramcoBranches\develop\src\foundation\SitecoreExtensions\code\bin\System.Web.WebPages.Deployment.xml
+D:\WorkingProject\SaudiAramcoBranches\develop\src\foundation\SitecoreExtensions\code\bin\System.Web.WebPages.Razor.xml
+D:\WorkingProject\SaudiAramcoBranches\develop\src\foundation\SitecoreExtensions\code\obj\Debug\SaudiAramco.Foundation.SitecoreExtensions.csprojResolveAssemblyReference.cache
+D:\WorkingProject\SaudiAramcoBranches\develop\src\foundation\SitecoreExtensions\code\obj\Debug\SaudiAramco.Foundation.SitecoreExtensions.dll
+D:\WorkingProject\SaudiAramcoBranches\develop\src\foundation\SitecoreExtensions\code\obj\Debug\SaudiAramco.Foundation.SitecoreExtensions.pdb
+D:\WorkingProject\SaudiAramcoBranches\develop\src\foundation\SitecoreExtensions\code\bin\SaudiAramco.Foundation.SitecoreExtensions.dll.CodeAnalysisLog.xml
+D:\WorkingProject\SaudiAramcoBranches\develop\src\foundation\SitecoreExtensions\code\bin\SaudiAramco.Foundation.SitecoreExtensions.dll.lastcodeanalysissucceeded
+D:\WorkingProject\SaudiAramcoBranches\develop\src\foundation\SitecoreExtensions\code\bin\Sitecore.Support.77381.dll
+D:\WorkingProject\SaudiAramcoBranches\develop\src\foundation\SitecoreExtensions\code\bin\HtmlAgilityPack.dll
+D:\WorkingProject\SaudiAramcoBranches\develop\src\foundation\SitecoreExtensions\code\bin\Sitecore.Client.dll
+D:\WorkingProject\SaudiAramcoBranches\develop\src\foundation\SitecoreExtensions\code\bin\Sitecore.Support.219261.dll
+D:\WorkingProject\SaudiAramcoBranches\develop\src\foundation\SitecoreExtensions\code\bin\HtmlAgilityPack.pdb
+D:\WorkingProject\SaudiAramcoBranches\develop\src\foundation\SitecoreExtensions\code\bin\HtmlAgilityPack.xml
+D:\WorkingProject\SaudiAramcoBranches\develop\src\foundation\SitecoreExtensions\code\bin\Sitecore.Support.219261.pdb
+H:\Manish Data\Sapient Work Data\Projects\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\roslyn\csc.exe
+H:\Manish Data\Sapient Work Data\Projects\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\roslyn\csc.exe.config
+H:\Manish Data\Sapient Work Data\Projects\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\roslyn\csc.rsp
+H:\Manish Data\Sapient Work Data\Projects\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\roslyn\csi.exe
+H:\Manish Data\Sapient Work Data\Projects\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\roslyn\csi.rsp
+H:\Manish Data\Sapient Work Data\Projects\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\Manish Data\Sapient Work Data\Projects\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\Manish Data\Sapient Work Data\Projects\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\Manish Data\Sapient Work Data\Projects\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\Manish Data\Sapient Work Data\Projects\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\Manish Data\Sapient Work Data\Projects\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\Manish Data\Sapient Work Data\Projects\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\Manish Data\Sapient Work Data\Projects\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\Manish Data\Sapient Work Data\Projects\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\Manish Data\Sapient Work Data\Projects\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\Manish Data\Sapient Work Data\Projects\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\roslyn\System.AppContext.dll
+H:\Manish Data\Sapient Work Data\Projects\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\roslyn\System.Collections.Immutable.dll
+H:\Manish Data\Sapient Work Data\Projects\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\Manish Data\Sapient Work Data\Projects\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\roslyn\System.IO.FileSystem.dll
+H:\Manish Data\Sapient Work Data\Projects\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\Manish Data\Sapient Work Data\Projects\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\roslyn\System.Reflection.Metadata.dll
+H:\Manish Data\Sapient Work Data\Projects\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\roslyn\vbc.exe
+H:\Manish Data\Sapient Work Data\Projects\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\roslyn\vbc.exe.config
+H:\Manish Data\Sapient Work Data\Projects\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\roslyn\vbc.rsp
+H:\Manish Data\Sapient Work Data\Projects\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\roslyn\VBCSCompiler.exe
+H:\Manish Data\Sapient Work Data\Projects\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\roslyn\VBCSCompiler.exe.config
+H:\Manish Data\Sapient Work Data\Projects\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\SaudiAramco.Foundation.SitecoreExtensions.dll.config
+H:\Manish Data\Sapient Work Data\Projects\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\SaudiAramco.Foundation.SitecoreExtensions.dll
+H:\Manish Data\Sapient Work Data\Projects\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\SaudiAramco.Foundation.SitecoreExtensions.pdb
+H:\Manish Data\Sapient Work Data\Projects\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\SaudiAramco.Foundation.SitecoreExtensions.dll.CodeAnalysisLog.xml
+H:\Manish Data\Sapient Work Data\Projects\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\SaudiAramco.Foundation.SitecoreExtensions.dll.lastcodeanalysissucceeded
+H:\Manish Data\Sapient Work Data\Projects\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\DynamicPlaceholders.dll
+H:\Manish Data\Sapient Work Data\Projects\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\DynamicPlaceholders.Mvc.dll
+H:\Manish Data\Sapient Work Data\Projects\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\HtmlAgilityPack.dll
+H:\Manish Data\Sapient Work Data\Projects\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\Manish Data\Sapient Work Data\Projects\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\Manish Data\Sapient Work Data\Projects\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\Microsoft.Extensions.DependencyInjection.dll
+H:\Manish Data\Sapient Work Data\Projects\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\Microsoft.Web.Infrastructure.dll
+H:\Manish Data\Sapient Work Data\Projects\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\Newtonsoft.Json.dll
+H:\Manish Data\Sapient Work Data\Projects\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\SaudiAramco.Foundation.DependencyInjection.dll
+H:\Manish Data\Sapient Work Data\Projects\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\Sitecore.Analytics.Core.dll
+H:\Manish Data\Sapient Work Data\Projects\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\Sitecore.Analytics.dll
+H:\Manish Data\Sapient Work Data\Projects\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\Sitecore.Analytics.Model.dll
+H:\Manish Data\Sapient Work Data\Projects\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\Sitecore.Analytics.Outcome.dll
+H:\Manish Data\Sapient Work Data\Projects\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\Sitecore.Client.dll
+H:\Manish Data\Sapient Work Data\Projects\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\Sitecore.ContentSearch.dll
+H:\Manish Data\Sapient Work Data\Projects\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\Sitecore.ContentSearch.Linq.dll
+H:\Manish Data\Sapient Work Data\Projects\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\Sitecore.ExperienceEditor.dll
+H:\Manish Data\Sapient Work Data\Projects\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\Sitecore.ExperienceExplorer.Business.dll
+H:\Manish Data\Sapient Work Data\Projects\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\Sitecore.Kernel.dll
+H:\Manish Data\Sapient Work Data\Projects\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\Sitecore.Mvc.dll
+H:\Manish Data\Sapient Work Data\Projects\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\Sitecore.Support.219261.dll
+H:\Manish Data\Sapient Work Data\Projects\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\Sitecore.Support.77381.dll
+H:\Manish Data\Sapient Work Data\Projects\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\Sitecore.Support.93741.dll
+H:\Manish Data\Sapient Work Data\Projects\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\System.Web.Helpers.dll
+H:\Manish Data\Sapient Work Data\Projects\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\System.Web.Mvc.dll
+H:\Manish Data\Sapient Work Data\Projects\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\System.Web.Razor.dll
+H:\Manish Data\Sapient Work Data\Projects\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\System.Web.WebPages.Deployment.dll
+H:\Manish Data\Sapient Work Data\Projects\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\System.Web.WebPages.dll
+H:\Manish Data\Sapient Work Data\Projects\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\System.Web.WebPages.Razor.dll
+H:\Manish Data\Sapient Work Data\Projects\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\SaudiAramco.Foundation.DependencyInjection.pdb
+H:\Manish Data\Sapient Work Data\Projects\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\SaudiAramco.Foundation.DependencyInjection.dll.config
+H:\Manish Data\Sapient Work Data\Projects\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\HtmlAgilityPack.pdb
+H:\Manish Data\Sapient Work Data\Projects\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\HtmlAgilityPack.xml
+H:\Manish Data\Sapient Work Data\Projects\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\Manish Data\Sapient Work Data\Projects\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\Microsoft.Extensions.DependencyInjection.xml
+H:\Manish Data\Sapient Work Data\Projects\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+H:\Manish Data\Sapient Work Data\Projects\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\Newtonsoft.Json.xml
+H:\Manish Data\Sapient Work Data\Projects\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\Sitecore.Support.219261.pdb
+H:\Manish Data\Sapient Work Data\Projects\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\System.Web.Helpers.xml
+H:\Manish Data\Sapient Work Data\Projects\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\System.Web.Mvc.xml
+H:\Manish Data\Sapient Work Data\Projects\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\System.Web.Razor.xml
+H:\Manish Data\Sapient Work Data\Projects\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\System.Web.WebPages.xml
+H:\Manish Data\Sapient Work Data\Projects\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\System.Web.WebPages.Deployment.xml
+H:\Manish Data\Sapient Work Data\Projects\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\System.Web.WebPages.Razor.xml
+H:\Manish Data\Sapient Work Data\Projects\Assignment\develop\src\foundation\SitecoreExtensions\code\obj\Debug\SaudiAramco.Foundation.SitecoreExtensions.csprojAssemblyReference.cache
+H:\Manish Data\Sapient Work Data\Projects\Assignment\develop\src\foundation\SitecoreExtensions\code\obj\Debug\SaudiAramco.Foundation.SitecoreExtensions.csproj.CoreCompileInputs.cache
+H:\Manish Data\Sapient Work Data\Projects\Assignment\develop\src\foundation\SitecoreExtensions\code\obj\Debug\SaudiAramco.Foundation.SitecoreExtensions.csproj.CopyComplete
+H:\Manish Data\Sapient Work Data\Projects\Assignment\develop\src\foundation\SitecoreExtensions\code\obj\Debug\SaudiAramco.Foundation.SitecoreExtensions.dll
+H:\Manish Data\Sapient Work Data\Projects\Assignment\develop\src\foundation\SitecoreExtensions\code\obj\Debug\SaudiAramco.Foundation.SitecoreExtensions.pdb
+D:\Manish\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\roslyn\csc.exe
+D:\Manish\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\roslyn\csc.exe.config
+D:\Manish\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\roslyn\csc.rsp
+D:\Manish\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\roslyn\csi.exe
+D:\Manish\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\roslyn\csi.rsp
+D:\Manish\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Manish\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Manish\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Manish\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Manish\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Manish\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Manish\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Manish\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Manish\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Manish\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Manish\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\roslyn\System.AppContext.dll
+D:\Manish\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\roslyn\System.Collections.Immutable.dll
+D:\Manish\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Manish\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\roslyn\System.IO.FileSystem.dll
+D:\Manish\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Manish\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\roslyn\System.Reflection.Metadata.dll
+D:\Manish\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\roslyn\vbc.exe
+D:\Manish\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\roslyn\vbc.exe.config
+D:\Manish\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\roslyn\vbc.rsp
+D:\Manish\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\roslyn\VBCSCompiler.exe
+D:\Manish\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\roslyn\VBCSCompiler.exe.config
+D:\Manish\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\SaudiAramco.Foundation.SitecoreExtensions.dll.config
+D:\Manish\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\SaudiAramco.Foundation.SitecoreExtensions.dll
+D:\Manish\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\SaudiAramco.Foundation.SitecoreExtensions.pdb
+D:\Manish\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\SaudiAramco.Foundation.SitecoreExtensions.dll.CodeAnalysisLog.xml
+D:\Manish\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\SaudiAramco.Foundation.SitecoreExtensions.dll.lastcodeanalysissucceeded
+D:\Manish\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\DynamicPlaceholders.dll
+D:\Manish\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\DynamicPlaceholders.Mvc.dll
+D:\Manish\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\HtmlAgilityPack.dll
+D:\Manish\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Manish\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Manish\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\Manish\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\Microsoft.Web.Infrastructure.dll
+D:\Manish\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\Newtonsoft.Json.dll
+D:\Manish\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\SaudiAramco.Foundation.DependencyInjection.dll
+D:\Manish\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\Sitecore.Analytics.Core.dll
+D:\Manish\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\Sitecore.Analytics.dll
+D:\Manish\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\Sitecore.Analytics.Model.dll
+D:\Manish\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\Sitecore.Analytics.Outcome.dll
+D:\Manish\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\Sitecore.Client.dll
+D:\Manish\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\Sitecore.ContentSearch.dll
+D:\Manish\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\Sitecore.ContentSearch.Linq.dll
+D:\Manish\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\Sitecore.ExperienceEditor.dll
+D:\Manish\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\Sitecore.ExperienceExplorer.Business.dll
+D:\Manish\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\Sitecore.Kernel.dll
+D:\Manish\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\Sitecore.Mvc.dll
+D:\Manish\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\Sitecore.Support.219261.dll
+D:\Manish\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\Sitecore.Support.77381.dll
+D:\Manish\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\Sitecore.Support.93741.dll
+D:\Manish\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\System.Web.Helpers.dll
+D:\Manish\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\System.Web.Mvc.dll
+D:\Manish\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\System.Web.Razor.dll
+D:\Manish\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\System.Web.WebPages.Deployment.dll
+D:\Manish\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\System.Web.WebPages.dll
+D:\Manish\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\System.Web.WebPages.Razor.dll
+D:\Manish\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\SaudiAramco.Foundation.DependencyInjection.pdb
+D:\Manish\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\SaudiAramco.Foundation.DependencyInjection.dll.config
+D:\Manish\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\HtmlAgilityPack.pdb
+D:\Manish\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\HtmlAgilityPack.xml
+D:\Manish\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Manish\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\Manish\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Manish\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\Newtonsoft.Json.xml
+D:\Manish\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\Sitecore.Support.219261.pdb
+D:\Manish\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\System.Web.Helpers.xml
+D:\Manish\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\System.Web.Mvc.xml
+D:\Manish\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\System.Web.Razor.xml
+D:\Manish\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\System.Web.WebPages.xml
+D:\Manish\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\System.Web.WebPages.Deployment.xml
+D:\Manish\Assignment\develop\src\foundation\SitecoreExtensions\code\bin\System.Web.WebPages.Razor.xml
+D:\Manish\Assignment\develop\src\foundation\SitecoreExtensions\code\obj\Debug\SaudiAramco.Foundation.SitecoreExtensions.csprojAssemblyReference.cache
+D:\Manish\Assignment\develop\src\foundation\SitecoreExtensions\code\obj\Debug\SaudiAramco.Foundation.SitecoreExtensions.csproj.CoreCompileInputs.cache
+D:\Manish\Assignment\develop\src\foundation\SitecoreExtensions\code\obj\Debug\SaudiAramco.Foundation.SitecoreExtensions.csproj.CopyComplete
+D:\Manish\Assignment\develop\src\foundation\SitecoreExtensions\code\obj\Debug\SaudiAramco.Foundation.SitecoreExtensions.dll
+D:\Manish\Assignment\develop\src\foundation\SitecoreExtensions\code\obj\Debug\SaudiAramco.Foundation.SitecoreExtensions.pdb

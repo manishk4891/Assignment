@@ -1,0 +1,54 @@
+﻿@using Assignment.Feature.News
+@using Assignment.Foundation.Alerts.Extensions
+@using Assignment.Feature.News.Models;
+@using Assignment.Foundation.Dictionary.Extensions
+@model NewsRenderingModel
+@if (Model?.Items == null || Model?.Items?.Any() == false)
+{
+    @Html.PageEditorError(Html.Sitecore().Dictionary(DictionaryPaths.NoArticles, "No articles found"))
+    return;
+}
+<news-listing inline-template v-cloak :apiurl="'@Model.ApiUrl'" :feed-type="'@Model.FeedType'" :listings="@Model.ListingJson">
+
+    <div :class="parentElementClasses">
+
+        <div class="row" :class="{ 'news-listing__feedback': isLoading, 'news-listing__feedback': hasError }">
+
+            <div class="col-12">
+                <h2 class="news-listing__title">${ listingsRendered.heading }</h2>
+            </div>
+
+            <div :class="sublayoutClasses" v-for="listing in listingsRendered.newsItems">
+
+                <article :class="articleElementClasses( listing )">
+
+                    <div class="news-card__content">
+                        <div class="news-card__content-inner">
+                            <time :datetime="listing.newsCard.datetime" class="news-card__date">
+                                ${ listing.newsCard.time }
+                            </time>
+                            <h3 class="news-card__title">
+                                <a :href="listing.newsCard.href">${ listing.newsCard.title }</a>
+                            </h3>
+                            <p v-if="listing.newsCard.description" class="news-card__description">
+                                ${ listing.newsCard.description }
+                            </p>
+                        </div>
+                    </div>
+
+                </article>
+
+            </div>
+
+            <div v-if="listingsRendered.layout === 'sixColumn'" class="col-12">
+                <hr class="divider">
+            </div>
+
+            <div class="news-listing__feedback-window">
+                <p>${ feedback }</p>
+            </div>
+
+        </div>
+
+    </div>
+</news-listing>

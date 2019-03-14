@@ -1,0 +1,170 @@
+D:\Manish\Assignment\develop\src\Foundation\DependencyInjection\code\bin\roslyn\csc.exe
+D:\Manish\Assignment\develop\src\Foundation\DependencyInjection\code\bin\roslyn\csc.exe.config
+D:\Manish\Assignment\develop\src\Foundation\DependencyInjection\code\bin\roslyn\csc.rsp
+D:\Manish\Assignment\develop\src\Foundation\DependencyInjection\code\bin\roslyn\csi.exe
+D:\Manish\Assignment\develop\src\Foundation\DependencyInjection\code\bin\roslyn\csi.rsp
+D:\Manish\Assignment\develop\src\Foundation\DependencyInjection\code\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Manish\Assignment\develop\src\Foundation\DependencyInjection\code\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Manish\Assignment\develop\src\Foundation\DependencyInjection\code\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Manish\Assignment\develop\src\Foundation\DependencyInjection\code\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Manish\Assignment\develop\src\Foundation\DependencyInjection\code\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Manish\Assignment\develop\src\Foundation\DependencyInjection\code\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Manish\Assignment\develop\src\Foundation\DependencyInjection\code\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Manish\Assignment\develop\src\Foundation\DependencyInjection\code\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Manish\Assignment\develop\src\Foundation\DependencyInjection\code\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Manish\Assignment\develop\src\Foundation\DependencyInjection\code\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Manish\Assignment\develop\src\Foundation\DependencyInjection\code\bin\roslyn\System.AppContext.dll
+D:\Manish\Assignment\develop\src\Foundation\DependencyInjection\code\bin\roslyn\System.Collections.Immutable.dll
+D:\Manish\Assignment\develop\src\Foundation\DependencyInjection\code\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Manish\Assignment\develop\src\Foundation\DependencyInjection\code\bin\roslyn\System.IO.FileSystem.dll
+D:\Manish\Assignment\develop\src\Foundation\DependencyInjection\code\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Manish\Assignment\develop\src\Foundation\DependencyInjection\code\bin\roslyn\System.Reflection.Metadata.dll
+D:\Manish\Assignment\develop\src\Foundation\DependencyInjection\code\bin\roslyn\vbc.exe
+D:\Manish\Assignment\develop\src\Foundation\DependencyInjection\code\bin\roslyn\vbc.exe.config
+D:\Manish\Assignment\develop\src\Foundation\DependencyInjection\code\bin\roslyn\vbc.rsp
+D:\Manish\Assignment\develop\src\Foundation\DependencyInjection\code\bin\roslyn\VBCSCompiler.exe
+D:\Manish\Assignment\develop\src\Foundation\DependencyInjection\code\bin\roslyn\VBCSCompiler.exe.config
+D:\Manish\Assignment\develop\src\Foundation\DependencyInjection\code\bin\Assignment.Foundation.DependencyInjection.dll.config
+D:\Manish\Assignment\develop\src\Foundation\DependencyInjection\code\bin\Assignment.Foundation.DependencyInjection.dll
+D:\Manish\Assignment\develop\src\Foundation\DependencyInjection\code\bin\Assignment.Foundation.DependencyInjection.pdb
+D:\Manish\Assignment\develop\src\Foundation\DependencyInjection\code\bin\Assignment.Foundation.DependencyInjection.dll.CodeAnalysisLog.xml
+D:\Manish\Assignment\develop\src\Foundation\DependencyInjection\code\bin\Assignment.Foundation.DependencyInjection.dll.lastcodeanalysissucceeded
+D:\Manish\Assignment\develop\src\Foundation\DependencyInjection\code\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Manish\Assignment\develop\src\Foundation\DependencyInjection\code\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Manish\Assignment\develop\src\Foundation\DependencyInjection\code\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\Manish\Assignment\develop\src\Foundation\DependencyInjection\code\bin\Microsoft.Web.Infrastructure.dll
+D:\Manish\Assignment\develop\src\Foundation\DependencyInjection\code\bin\Sitecore.Kernel.dll
+D:\Manish\Assignment\develop\src\Foundation\DependencyInjection\code\bin\System.Web.Helpers.dll
+D:\Manish\Assignment\develop\src\Foundation\DependencyInjection\code\bin\System.Web.Mvc.dll
+D:\Manish\Assignment\develop\src\Foundation\DependencyInjection\code\bin\System.Web.Razor.dll
+D:\Manish\Assignment\develop\src\Foundation\DependencyInjection\code\bin\System.Web.Webpages.Deployment.dll
+D:\Manish\Assignment\develop\src\Foundation\DependencyInjection\code\bin\System.Web.Webpages.dll
+D:\Manish\Assignment\develop\src\Foundation\DependencyInjection\code\bin\System.Web.Webpages.Razor.dll
+D:\Manish\Assignment\develop\src\Foundation\DependencyInjection\code\bin\Newtonsoft.Json.dll
+D:\Manish\Assignment\develop\src\Foundation\DependencyInjection\code\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Manish\Assignment\develop\src\Foundation\DependencyInjection\code\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\Manish\Assignment\develop\src\Foundation\DependencyInjection\code\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Manish\Assignment\develop\src\Foundation\DependencyInjection\code\bin\System.Web.Razor.xml
+D:\Manish\Assignment\develop\src\Foundation\DependencyInjection\code\bin\System.Web.Webpages.xml
+D:\Manish\Assignment\develop\src\Foundation\DependencyInjection\code\bin\System.Web.Webpages.Deployment.xml
+D:\Manish\Assignment\develop\src\Foundation\DependencyInjection\code\bin\System.Web.Webpages.Razor.xml
+D:\Manish\Assignment\develop\src\Foundation\DependencyInjection\code\bin\System.Web.Helpers.xml
+D:\Manish\Assignment\develop\src\Foundation\DependencyInjection\code\bin\System.Web.Mvc.xml
+D:\Manish\Assignment\develop\src\Foundation\DependencyInjection\code\obj\Debug\Assignment.Foundation.DependencyInjection.csproj.CoreCompileInputs.cache
+D:\Manish\Assignment\develop\src\Foundation\DependencyInjection\code\obj\Debug\Assignment.Foundation.DependencyInjection.csproj.CopyComplete
+D:\Manish\Assignment\develop\src\Foundation\DependencyInjection\code\obj\Debug\Assignment.Foundation.DependencyInjection.dll
+D:\Manish\Assignment\develop\src\Foundation\DependencyInjection\code\obj\Debug\Assignment.Foundation.DependencyInjection.pdb
+D:\Manish\Assignment\develop - Copy\src\Foundation\DependencyInjection\code\bin\roslyn\csc.exe
+D:\Manish\Assignment\develop - Copy\src\Foundation\DependencyInjection\code\bin\roslyn\csc.exe.config
+D:\Manish\Assignment\develop - Copy\src\Foundation\DependencyInjection\code\bin\roslyn\csc.rsp
+D:\Manish\Assignment\develop - Copy\src\Foundation\DependencyInjection\code\bin\roslyn\csi.exe
+D:\Manish\Assignment\develop - Copy\src\Foundation\DependencyInjection\code\bin\roslyn\csi.rsp
+D:\Manish\Assignment\develop - Copy\src\Foundation\DependencyInjection\code\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Manish\Assignment\develop - Copy\src\Foundation\DependencyInjection\code\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Manish\Assignment\develop - Copy\src\Foundation\DependencyInjection\code\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Manish\Assignment\develop - Copy\src\Foundation\DependencyInjection\code\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Manish\Assignment\develop - Copy\src\Foundation\DependencyInjection\code\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Manish\Assignment\develop - Copy\src\Foundation\DependencyInjection\code\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Manish\Assignment\develop - Copy\src\Foundation\DependencyInjection\code\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Manish\Assignment\develop - Copy\src\Foundation\DependencyInjection\code\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Manish\Assignment\develop - Copy\src\Foundation\DependencyInjection\code\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Manish\Assignment\develop - Copy\src\Foundation\DependencyInjection\code\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Manish\Assignment\develop - Copy\src\Foundation\DependencyInjection\code\bin\roslyn\System.AppContext.dll
+D:\Manish\Assignment\develop - Copy\src\Foundation\DependencyInjection\code\bin\roslyn\System.Collections.Immutable.dll
+D:\Manish\Assignment\develop - Copy\src\Foundation\DependencyInjection\code\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Manish\Assignment\develop - Copy\src\Foundation\DependencyInjection\code\bin\roslyn\System.IO.FileSystem.dll
+D:\Manish\Assignment\develop - Copy\src\Foundation\DependencyInjection\code\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Manish\Assignment\develop - Copy\src\Foundation\DependencyInjection\code\bin\roslyn\System.Reflection.Metadata.dll
+D:\Manish\Assignment\develop - Copy\src\Foundation\DependencyInjection\code\bin\roslyn\vbc.exe
+D:\Manish\Assignment\develop - Copy\src\Foundation\DependencyInjection\code\bin\roslyn\vbc.exe.config
+D:\Manish\Assignment\develop - Copy\src\Foundation\DependencyInjection\code\bin\roslyn\vbc.rsp
+D:\Manish\Assignment\develop - Copy\src\Foundation\DependencyInjection\code\bin\roslyn\VBCSCompiler.exe
+D:\Manish\Assignment\develop - Copy\src\Foundation\DependencyInjection\code\bin\roslyn\VBCSCompiler.exe.config
+D:\Manish\Assignment\develop - Copy\src\Foundation\DependencyInjection\code\bin\Assignment.Foundation.DependencyInjection.dll.config
+D:\Manish\Assignment\develop - Copy\src\Foundation\DependencyInjection\code\bin\Assignment.Foundation.DependencyInjection.dll
+D:\Manish\Assignment\develop - Copy\src\Foundation\DependencyInjection\code\bin\Assignment.Foundation.DependencyInjection.pdb
+D:\Manish\Assignment\develop - Copy\src\Foundation\DependencyInjection\code\bin\Assignment.Foundation.DependencyInjection.dll.CodeAnalysisLog.xml
+D:\Manish\Assignment\develop - Copy\src\Foundation\DependencyInjection\code\bin\Assignment.Foundation.DependencyInjection.dll.lastcodeanalysissucceeded
+D:\Manish\Assignment\develop - Copy\src\Foundation\DependencyInjection\code\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Manish\Assignment\develop - Copy\src\Foundation\DependencyInjection\code\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Manish\Assignment\develop - Copy\src\Foundation\DependencyInjection\code\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\Manish\Assignment\develop - Copy\src\Foundation\DependencyInjection\code\bin\Microsoft.Web.Infrastructure.dll
+D:\Manish\Assignment\develop - Copy\src\Foundation\DependencyInjection\code\bin\Sitecore.Kernel.dll
+D:\Manish\Assignment\develop - Copy\src\Foundation\DependencyInjection\code\bin\System.Web.Helpers.dll
+D:\Manish\Assignment\develop - Copy\src\Foundation\DependencyInjection\code\bin\System.Web.Mvc.dll
+D:\Manish\Assignment\develop - Copy\src\Foundation\DependencyInjection\code\bin\System.Web.Razor.dll
+D:\Manish\Assignment\develop - Copy\src\Foundation\DependencyInjection\code\bin\System.Web.Webpages.Deployment.dll
+D:\Manish\Assignment\develop - Copy\src\Foundation\DependencyInjection\code\bin\System.Web.Webpages.dll
+D:\Manish\Assignment\develop - Copy\src\Foundation\DependencyInjection\code\bin\System.Web.Webpages.Razor.dll
+D:\Manish\Assignment\develop - Copy\src\Foundation\DependencyInjection\code\bin\Newtonsoft.Json.dll
+D:\Manish\Assignment\develop - Copy\src\Foundation\DependencyInjection\code\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Manish\Assignment\develop - Copy\src\Foundation\DependencyInjection\code\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\Manish\Assignment\develop - Copy\src\Foundation\DependencyInjection\code\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Manish\Assignment\develop - Copy\src\Foundation\DependencyInjection\code\bin\System.Web.Razor.xml
+D:\Manish\Assignment\develop - Copy\src\Foundation\DependencyInjection\code\bin\System.Web.Webpages.xml
+D:\Manish\Assignment\develop - Copy\src\Foundation\DependencyInjection\code\bin\System.Web.Webpages.Deployment.xml
+D:\Manish\Assignment\develop - Copy\src\Foundation\DependencyInjection\code\bin\System.Web.Webpages.Razor.xml
+D:\Manish\Assignment\develop - Copy\src\Foundation\DependencyInjection\code\bin\System.Web.Helpers.xml
+D:\Manish\Assignment\develop - Copy\src\Foundation\DependencyInjection\code\bin\System.Web.Mvc.xml
+D:\Manish\Assignment\develop - Copy\src\Foundation\DependencyInjection\code\obj\Debug\Assignment.Foundation.DependencyInjection.csprojAssemblyReference.cache
+D:\Manish\Assignment\develop - Copy\src\Foundation\DependencyInjection\code\obj\Debug\Assignment.Foundation.DependencyInjection.csproj.CoreCompileInputs.cache
+D:\Manish\Assignment\develop - Copy\src\Foundation\DependencyInjection\code\obj\Debug\Assignment.Foundation.DependencyInjection.csproj.CopyComplete
+D:\Manish\Assignment\develop - Copy\src\Foundation\DependencyInjection\code\obj\Debug\Assignment.Foundation.DependencyInjection.dll
+D:\Manish\Assignment\develop - Copy\src\Foundation\DependencyInjection\code\obj\Debug\Assignment.Foundation.DependencyInjection.pdb
+D:\Manish\Assignment\AssignmentCode\src\Foundation\DependencyInjection\code\bin\roslyn\csc.exe
+D:\Manish\Assignment\AssignmentCode\src\Foundation\DependencyInjection\code\bin\roslyn\csc.exe.config
+D:\Manish\Assignment\AssignmentCode\src\Foundation\DependencyInjection\code\bin\roslyn\csc.rsp
+D:\Manish\Assignment\AssignmentCode\src\Foundation\DependencyInjection\code\bin\roslyn\csi.exe
+D:\Manish\Assignment\AssignmentCode\src\Foundation\DependencyInjection\code\bin\roslyn\csi.rsp
+D:\Manish\Assignment\AssignmentCode\src\Foundation\DependencyInjection\code\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Manish\Assignment\AssignmentCode\src\Foundation\DependencyInjection\code\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Manish\Assignment\AssignmentCode\src\Foundation\DependencyInjection\code\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Manish\Assignment\AssignmentCode\src\Foundation\DependencyInjection\code\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Manish\Assignment\AssignmentCode\src\Foundation\DependencyInjection\code\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Manish\Assignment\AssignmentCode\src\Foundation\DependencyInjection\code\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Manish\Assignment\AssignmentCode\src\Foundation\DependencyInjection\code\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Manish\Assignment\AssignmentCode\src\Foundation\DependencyInjection\code\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Manish\Assignment\AssignmentCode\src\Foundation\DependencyInjection\code\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Manish\Assignment\AssignmentCode\src\Foundation\DependencyInjection\code\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Manish\Assignment\AssignmentCode\src\Foundation\DependencyInjection\code\bin\roslyn\System.AppContext.dll
+D:\Manish\Assignment\AssignmentCode\src\Foundation\DependencyInjection\code\bin\roslyn\System.Collections.Immutable.dll
+D:\Manish\Assignment\AssignmentCode\src\Foundation\DependencyInjection\code\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Manish\Assignment\AssignmentCode\src\Foundation\DependencyInjection\code\bin\roslyn\System.IO.FileSystem.dll
+D:\Manish\Assignment\AssignmentCode\src\Foundation\DependencyInjection\code\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Manish\Assignment\AssignmentCode\src\Foundation\DependencyInjection\code\bin\roslyn\System.Reflection.Metadata.dll
+D:\Manish\Assignment\AssignmentCode\src\Foundation\DependencyInjection\code\bin\roslyn\vbc.exe
+D:\Manish\Assignment\AssignmentCode\src\Foundation\DependencyInjection\code\bin\roslyn\vbc.exe.config
+D:\Manish\Assignment\AssignmentCode\src\Foundation\DependencyInjection\code\bin\roslyn\vbc.rsp
+D:\Manish\Assignment\AssignmentCode\src\Foundation\DependencyInjection\code\bin\roslyn\VBCSCompiler.exe
+D:\Manish\Assignment\AssignmentCode\src\Foundation\DependencyInjection\code\bin\roslyn\VBCSCompiler.exe.config
+D:\Manish\Assignment\AssignmentCode\src\Foundation\DependencyInjection\code\bin\Assignment.Foundation.DependencyInjection.dll.config
+D:\Manish\Assignment\AssignmentCode\src\Foundation\DependencyInjection\code\bin\Assignment.Foundation.DependencyInjection.dll
+D:\Manish\Assignment\AssignmentCode\src\Foundation\DependencyInjection\code\bin\Assignment.Foundation.DependencyInjection.pdb
+D:\Manish\Assignment\AssignmentCode\src\Foundation\DependencyInjection\code\bin\Assignment.Foundation.DependencyInjection.dll.CodeAnalysisLog.xml
+D:\Manish\Assignment\AssignmentCode\src\Foundation\DependencyInjection\code\bin\Assignment.Foundation.DependencyInjection.dll.lastcodeanalysissucceeded
+D:\Manish\Assignment\AssignmentCode\src\Foundation\DependencyInjection\code\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Manish\Assignment\AssignmentCode\src\Foundation\DependencyInjection\code\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Manish\Assignment\AssignmentCode\src\Foundation\DependencyInjection\code\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\Manish\Assignment\AssignmentCode\src\Foundation\DependencyInjection\code\bin\Microsoft.Web.Infrastructure.dll
+D:\Manish\Assignment\AssignmentCode\src\Foundation\DependencyInjection\code\bin\Sitecore.Kernel.dll
+D:\Manish\Assignment\AssignmentCode\src\Foundation\DependencyInjection\code\bin\System.Web.Helpers.dll
+D:\Manish\Assignment\AssignmentCode\src\Foundation\DependencyInjection\code\bin\System.Web.Mvc.dll
+D:\Manish\Assignment\AssignmentCode\src\Foundation\DependencyInjection\code\bin\System.Web.Razor.dll
+D:\Manish\Assignment\AssignmentCode\src\Foundation\DependencyInjection\code\bin\System.Web.Webpages.Deployment.dll
+D:\Manish\Assignment\AssignmentCode\src\Foundation\DependencyInjection\code\bin\System.Web.Webpages.dll
+D:\Manish\Assignment\AssignmentCode\src\Foundation\DependencyInjection\code\bin\System.Web.Webpages.Razor.dll
+D:\Manish\Assignment\AssignmentCode\src\Foundation\DependencyInjection\code\bin\Newtonsoft.Json.dll
+D:\Manish\Assignment\AssignmentCode\src\Foundation\DependencyInjection\code\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Manish\Assignment\AssignmentCode\src\Foundation\DependencyInjection\code\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\Manish\Assignment\AssignmentCode\src\Foundation\DependencyInjection\code\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Manish\Assignment\AssignmentCode\src\Foundation\DependencyInjection\code\bin\System.Web.Razor.xml
+D:\Manish\Assignment\AssignmentCode\src\Foundation\DependencyInjection\code\bin\System.Web.Webpages.xml
+D:\Manish\Assignment\AssignmentCode\src\Foundation\DependencyInjection\code\bin\System.Web.Webpages.Deployment.xml
+D:\Manish\Assignment\AssignmentCode\src\Foundation\DependencyInjection\code\bin\System.Web.Webpages.Razor.xml
+D:\Manish\Assignment\AssignmentCode\src\Foundation\DependencyInjection\code\bin\System.Web.Helpers.xml
+D:\Manish\Assignment\AssignmentCode\src\Foundation\DependencyInjection\code\bin\System.Web.Mvc.xml
+D:\Manish\Assignment\AssignmentCode\src\Foundation\DependencyInjection\code\obj\Debug\Assignment.Foundation.DependencyInjection.csprojAssemblyReference.cache
+D:\Manish\Assignment\AssignmentCode\src\Foundation\DependencyInjection\code\obj\Debug\Assignment.Foundation.DependencyInjection.csproj.CoreCompileInputs.cache
+D:\Manish\Assignment\AssignmentCode\src\Foundation\DependencyInjection\code\obj\Debug\Assignment.Foundation.DependencyInjection.csproj.CopyComplete
+D:\Manish\Assignment\AssignmentCode\src\Foundation\DependencyInjection\code\obj\Debug\Assignment.Foundation.DependencyInjection.dll
+D:\Manish\Assignment\AssignmentCode\src\Foundation\DependencyInjection\code\obj\Debug\Assignment.Foundation.DependencyInjection.pdb
